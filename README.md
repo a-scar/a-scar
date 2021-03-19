@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony Scardapane
 - 👀 I’m interested in building cool stuff with code!
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Javascript (React/Angular) Projects
+- 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me: scardapane@hey.com
 
 <!---
