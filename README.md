@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anthony Scardapane
 - 👀 I’m interested in building cool stuff with code!
-- 🌱 I’m currently learning CSS via Josh Comeau's amazing course
-- 💞️ I’m looking to collaborate on Javascript Projects
+- 🌱 I’m currently learning CSS via Josh Comeau's amazing [course](https://css-for-js.dev/)
+- 📚 Reading [The Rust Programming Language](https://doc.rust-lang.org/book/) and [Effective Typescript](https://effectivetypescript.com/)
+- 💞️ I’m looking to collaborate on Javascript/Angular or just any fun Projects!
 - 📫 How to reach me: an.scardapane@gmail.com
 
 <!---
