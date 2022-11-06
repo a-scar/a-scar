@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Anthony Scardapane
 - 👀 Come check out my [website](https://anthonyscardapane.com)!
-- 📫 Say Hello via Email at an.scardapane@gmail.com
-- 🤡 <-- That is a clown
+- 🤡 Surprise! A Clown.
+- 📚 I love learning and reading about programming.
+- 👻 Boo! A ghost.
+
 
 <!---
 a-scar/a-scar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
